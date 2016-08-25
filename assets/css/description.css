@@ -123,19 +123,13 @@ a:active {
   margin-top: -90px; }
 
 #hero {
-  background: #1abc9c; }
+  background: #2196F3; }
 
 #work {
-  background: #3498db; }
+  background: #37474F; }
 
 #networks {
-  background: #474e5d; }
-
-#mini {
-background:#2196F3;}
-
-#description {
-background:#00796B;}
+  background: #474e5d;}
 
 .down-arrow {
   position: absolute;
